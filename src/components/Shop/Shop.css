@@ -10,7 +10,7 @@
     margin: 50px;
 }
 .cart-container{
-    text-align: center;
+    /* text-align: center; */
 }
 
 @media only screen and (max-width: 688px) {
