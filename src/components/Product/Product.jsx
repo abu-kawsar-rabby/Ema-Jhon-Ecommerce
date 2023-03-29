@@ -13,7 +13,7 @@ const Product = (props) => {
             <img src={img} alt="" />
             <div className="product-info">
                 <h6 className='product-name'>{name}</h6>
-                <h6 className='product-price'>Price ${price}</h6>
+                <h5 className='product-price'>Price: ${price}</h5>
                 <p>Manufacturer: {seller}</p>
                 <p>Rating: {ratings} star</p>
             </div>
