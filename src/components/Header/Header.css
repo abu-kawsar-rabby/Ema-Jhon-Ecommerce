@@ -1,0 +1,14 @@
+.header{
+    background: #131921;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+}
+.menu a{
+    margin-right: 1rem;
+    color: white;
+}
+.menu a:hover{
+    color: orange;
+}
