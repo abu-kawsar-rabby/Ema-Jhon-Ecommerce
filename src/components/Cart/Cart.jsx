@@ -1,7 +1,7 @@
 import React from 'react';
-import './Card.css';
+import './Cart.css';
 
-const Card = (props) => {
+const Cart = (props) => {
     const { cart } = props;
     let totalPrice = 0;
     let totalShipping = 0;
@@ -24,4 +24,4 @@ const Card = (props) => {
     );
 };
 
-export default Card;
+export default Cart;
